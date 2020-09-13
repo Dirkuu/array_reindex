@@ -1,0 +1,17 @@
+{
+  "name": "dirkuu/array-reindex",
+  "description": "Package contain function who allows to easy sets new indexes",
+  "keywords": ["array","reindex","index","rewrite","indexes"],
+  "homepage": "https://github.com/Dirkuu/array_reindex",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wojciech Jeżowski",
+      "email": "dirkuu@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  }
+}
