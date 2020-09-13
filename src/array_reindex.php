@@ -1,6 +1,8 @@
 <?php
 declare(strict_types=1);
 
+namespace dirkuu;
+
 if (! function_exists('array_reindex'))
 {
 	/**
