@@ -13,5 +13,10 @@
   ],
   "require": {
     "php": "^7.0"
+  },
+  "autoload": {
+    "files": [
+      "src/array_reindex.php"
+    ]
   }
 }
